@@ -9,7 +9,7 @@ Em muitos pequenos negócios de pet shops, o gerenciamento de clientes, animais 
 Este projeto busca resolver esses problemas criando uma aplicação simples e intuitiva para:
 
 - Cadastrar clientes e seus respectivos animais de estimação.
-- Registrar agendamentos de serviços como banho, tosa, vacinação e passeio.
+- Registrar agendamentos de serviços como banho e tosa.
 - Visualizar o histórico dos agendamentos e atendimentos realizados.
 - Gerenciar os dados com segurança, salvando e carregando as informações localmente.
 
@@ -65,7 +65,7 @@ Como Executar
 
    `pip install pillow`
 
-3. Execute o programa:
+3. abra a pasta Petshop e execute o programa:
 
    `python main.py`
 
