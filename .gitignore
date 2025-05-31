@@ -1,0 +1,16 @@
+# Ignorar arquivos temporários do VSCode
+tempCodeRunnerFile.py
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar dados salvos em arquivos pickle
+*.pkl
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações do VSCode
+.vscode/
