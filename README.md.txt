@@ -50,10 +50,6 @@ Funcionalidades / Casos de Uso
    - Interface simples e clara usando Tkinter.
    - Navegação fácil entre cadastro, agendamento e histórico.
 
-Estrutura do Projeto
-
-
-
 Tecnologias Utilizadas
 
 - Python 3.x
